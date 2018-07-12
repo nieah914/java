@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 public class Main {
-
+/*
 	public static void main(String[] args) throws IOException {
 		/*Leet001
 		 * 
@@ -34,10 +34,27 @@ public class Main {
 		int[][] _inputArray = new int[][]{{1,1,0,0},{1,0,0,1},{0,1,1,1},{1,0,1,0}};
 		test.flipAndInvertImage(_inputArray);
 		*/
+		/*
 		int[] _input = {9,8,7,6,5,4,3,2,1,0};
 		Leet066 test = new Leet066();
 		test.plusOne(_input);
-		
+		*/
+		/*
+		int n = 8;
+		 int[][] board = 		{	{1,5,1,6,1,4,1},
+									{6,1,1,2,2,9,3},
+									{7,2,3,2,1,3,1},
+									{1,1,3,1,7,1,2},
+									{4,1,2,3,4,1,2},
+									{3,3,1,2,3,4,1},
+									{1,5,2,9,4,7,0}};
+		Book_jumpgame test = new Book_jumpgame(n,board);
+		test.jump(0, 0);
+		*/
+		/*
+		RefStudy test = new RefStudy();
+		test.test();
 	}
+	*/
 }
 
