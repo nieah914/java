@@ -21,6 +21,7 @@ public class DP_Back9095 {
 			outputlist[i] = Dynamic(CASE);
 		}
 		
+		
 		for(int i = 0 ; i < N ; i++) {
 			System.out.println(outputlist[i]);
 		}
