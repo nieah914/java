@@ -8,6 +8,8 @@ public class DP_Back9095 {
 	public static int[]outputlist;
 	public static int N;
 	public static int CASE;
+	
+	/*
 	public static void main(String[] args)  {
 		Scanner sn = new Scanner(System.in);
 		
@@ -30,7 +32,7 @@ public class DP_Back9095 {
 		
 		
 	}
-	
+	*/
 
 	public static int Dynamic(int n) {
 		if(n == 1) {

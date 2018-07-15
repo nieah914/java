@@ -9,7 +9,7 @@ public class DP_Back1890 {
 	public static int[][] matrix ;
 	public static long[][] isStoped ;
 	
-	
+	/*
 	public static void main(String[] args)  {
 		Scanner sn = new Scanner(System.in);
 		N = sn.nextInt();
@@ -28,7 +28,7 @@ public class DP_Back1890 {
 		
 	}
 	
-	
+	*/
 	public static void print_matrix() {
 		for(int i = 0 ; i < N ; i++) {
 			for(int j = 0 ; j < N ; j ++) {
