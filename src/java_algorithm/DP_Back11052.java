@@ -13,6 +13,7 @@ public class DP_Back11052 {
 	public static int[] price;
 	//the total selling price
 	public static int[] sellingPrice;
+	/*
 	public static void main(String[] args)  {
 		Scanner sn = new Scanner(System.in);
 		N = sn.nextInt();
@@ -26,6 +27,7 @@ public class DP_Back11052 {
 		
 		
 	}
+	*/
 	public static int Dynamic(int breadNum) {
 		if(breadNum == 1)
 			return price[1];
